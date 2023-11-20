@@ -1,0 +1,79 @@
+[
+	{
+		"gradeid": 1,
+		"start": 95,
+		"end": 100,
+		"grade": "A+",
+		"gpa": 4
+	},
+	{
+		"gradeid": 2,
+		"start": 91,
+		"end": 94,
+		"grade": "A",
+		"gpa": 3.75
+	},
+	{
+		"gradeid": 3,
+		"start": 87,
+		"end": 90,
+		"grade": "A-",
+		"gpa": 3.5
+	},
+	{
+		"gradeid": 4,
+		"start": 83,
+		"end": 86,
+		"grade": "B+",
+		"gpa": 3.25
+	},
+	{
+		"gradeid": 5,
+		"start": 79,
+		"end": 82,
+		"grade": "B",
+		"gpa": 3
+	},
+	{
+		"gradeid": 6,
+		"start": 75,
+		"end": 78,
+		"grade": "B-",
+		"gpa": 2.75
+	},
+	{
+		"gradeid": 7,
+		"start": 71,
+		"end": 74,
+		"grade": "C+",
+		"gpa": 2.5
+	},
+	{
+		"gradeid": 8,
+		"start": 68,
+		"end": 70,
+		"grade": "C",
+		"gpa": 2.25
+	},
+	{
+		"gradeid": 9,
+		"start": 65,
+		"end": 67,
+		"grade": "C-",
+		"gpa": 2
+	},
+	{
+		"gradeid": 10,
+		"start": 60,
+		"end": 64,
+		"grade": "D",
+		"gpa": 1
+	},
+	{
+		"gradeid": 11,
+		"start": 0,
+		"end": 59,
+		"grade": "F",
+		"gpa": 0
+	}
+]

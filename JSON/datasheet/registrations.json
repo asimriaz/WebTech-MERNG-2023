@@ -1,0 +1,17 @@
+[
+	{
+		"courseid": 1,
+		"regno": "1112101",
+		"gradeid": 2
+	},
+	{
+		"courseid": 2,
+		"regno": "1112101",
+		"gradeid": 5
+	},
+	{
+		"courseid": 3,
+		"regno": "1112101",
+		"gradeid": 8
+	}
+]

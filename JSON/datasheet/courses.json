@@ -1,0 +1,282 @@
+[
+	{
+		"courseid": 1,
+		"code": "CS1102",
+		"title": "Calculus and Analytical Geometry",
+		"crhr": 3,
+		"semester": 1
+	},
+	{
+		"courseid": 2,
+		"code": "CS1111",
+		"title": "English Composition and Comprehension",
+		"crhr": 3,
+		"semester": 1
+	},
+	{
+		"courseid": 3,
+		"code": "CS1114",
+		"title": "Introduction to Computer Sciences",
+		"crhr": 4,
+		"semester": 1
+	},
+	{
+		"courseid": 4,
+		"code": "CS1118",
+		"title": "Fundamentals of Programming",
+		"crhr": 4,
+		"semester": 1
+	},
+	{
+		"courseid": 5,
+		"code": "CS1206",
+		"title": "Islamiat and Pakistan Studies / Humanities",
+		"crhr": 3,
+		"semester": 1
+	},
+	{
+		"courseid": 6,
+		"code": "CS1108",
+		"title": "Object Oriented Programming",
+		"crhr": 3,
+		"semester": 2
+	},
+	{
+		"courseid": 7,
+		"code": "CS1211",
+		"title": "Technical and Business Writing",
+		"crhr": 3,
+		"semester": 2
+	},
+	{
+		"courseid": 8,
+		"code": "CS1215",
+		"title": "Physics and Basic Electronics",
+		"crhr": 4,
+		"semester": 2
+	},
+	{
+		"courseid": 9,
+		"code": "CS2414",
+		"title": "Multivariate Calculus",
+		"crhr": 3,
+		"semester": 2
+	},
+	{
+		"courseid": 10,
+		"code": "CS3505",
+		"title": "Discrete Mathematical Structures",
+		"crhr": 3,
+		"semester": 2
+	},
+	{
+		"courseid": 11,
+		"code": "CS1205",
+		"title": "Oral Communication and Presentation Skills",
+		"crhr": 3,
+		"semester": 3
+	},
+	{
+		"courseid": 12,
+		"code": "CS2305",
+		"title": "Linear Algebra and Differential Equations",
+		"crhr": 3,
+		"semester": 3
+	},
+	{
+		"courseid": 13,
+		"code": "CS2313",
+		"title": "Data Structures and Algorithms",
+		"crhr": 3,
+		"semester": 3
+	},
+	{
+		"courseid": 14,
+		"code": "CS2317",
+		"title": "Digital Logic Design",
+		"crhr": 4,
+		"semester": 3
+	},
+	{
+		"courseid": 15,
+		"code": "CS2318",
+		"title": "Operating Systems Concepts",
+		"crhr": 4,
+		"semester": 3
+	},
+	{
+		"courseid": 16,
+		"code": "CS1212",
+		"title": "Statistics and Probability",
+		"crhr": 3,
+		"semester": 4
+	},
+	{
+		"courseid": 17,
+		"code": "CS2411",
+		"title": "Computer Organization and Assembly Language",
+		"crhr": 3,
+		"semester": 4
+	},
+	{
+		"courseid": 18,
+		"code": "CS2417",
+		"title": "Introduction to Software Development",
+		"crhr": 4,
+		"semester": 4
+	},
+	{
+		"courseid": 19,
+		"code": "CS2418",
+		"title": "Computer Data Communications and Networks",
+		"crhr": 4,
+		"semester": 4
+	},
+	{
+		"courseid": 20,
+		"code": "CS2421",
+		"title": "Relational Database Systems",
+		"crhr": 4,
+		"semester": 4
+	},
+	{
+		"courseid": 21,
+		"code": "CS2314",
+		"title": "Finite Automata Theory and Formal Languages",
+		"crhr": 3,
+		"semester": 5
+	},
+	{
+		"courseid": 22,
+		"code": "CS2315",
+		"title": "Web Engineering",
+		"crhr": 3,
+		"semester": 5
+	},
+	{
+		"courseid": 23,
+		"code": "CS2415",
+		"title": "Human Computer Interaction",
+		"crhr": 3,
+		"semester": 5
+	},
+	{
+		"courseid": 24,
+		"code": "CS3517",
+		"title": "Software Engineering Concepts",
+		"crhr": 4,
+		"semester": 5
+	},
+	{
+		"courseid": 25,
+		"code": "CS3521",
+		"title": "Computer Architecture",
+		"crhr": 4,
+		"semester": 5
+	},
+	{
+		"courseid": 26,
+		"code": "CS3607",
+		"title": "Advanced Web Technologies",
+		"crhr": 3,
+		"semester": 6
+	},
+	{
+		"courseid": 27,
+		"code": "CS3611",
+		"title": "Analysis of Algorithms",
+		"crhr": 3,
+		"semester": 6
+	},
+	{
+		"courseid": 28,
+		"code": "CS3612",
+		"title": "Software Engineering-II",
+		"crhr": 3,
+		"semester": 6
+	},
+	{
+		"courseid": 29,
+		"code": "CS3619",
+		"title": "Numerical and Symbolic Computation",
+		"crhr": 3,
+		"semester": 6
+	},
+	{
+		"courseid": 30,
+		"code": "CS3624",
+		"title": "Compiler Construction",
+		"crhr": 3,
+		"semester": 6
+	},
+	{
+		"courseid": 31,
+		"code": "CS4615",
+		"title": "Android Application Development",
+		"crhr": 3,
+		"semester": 7
+	},
+	{
+		"courseid": 32,
+		"code": "CS4702",
+		"title": "Artificial Intelligence",
+		"crhr": 3,
+		"semester": 7
+	},
+	{
+		"courseid": 33,
+		"code": "CS4704",
+		"title": "Project-I",
+		"crhr": 3,
+		"semester": 7
+	},
+	{
+		"courseid": 34,
+		"code": "CS4805",
+		"title": "Professional Practices",
+		"crhr": 3,
+		"semester": 7
+	},
+	{
+		"courseid": 35,
+		"code": "CS4828",
+		"title": "Auditing Information Systems",
+		"crhr": 3,
+		"semester": 7
+	},
+	{
+		"courseid": 36,
+		"code": "CS4617",
+		"title": "iOS Development",
+		"crhr": 3,
+		"semester": 8
+	},
+	{
+		"courseid": 37,
+		"code": "CS4619",
+		"title": "Data Warehouse Techniques",
+		"crhr": 3,
+		"semester": 8
+	},
+	{
+		"courseid": 38,
+		"code": "CS4732",
+		"title": "Software Quality Assurance",
+		"crhr": 3,
+		"semester": 8
+	},
+	{
+		"courseid": 39,
+		"code": "CS4802",
+		"title": "Research Report",
+		"crhr": 3,
+		"semester": 8
+	},
+	{
+		"courseid": 40,
+		"code": "CS4804",
+		"title": "Project-II",
+		"crhr": 3,
+		"semester": 8
+	}
+]
